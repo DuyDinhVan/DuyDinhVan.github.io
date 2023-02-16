@@ -5,6 +5,7 @@
 - Full Name: Dinh Van Duy
 - DOB: 1996-10-28
 - Email: vanduydinh2810@gmail.com
+- Mobile: 0368568292
 
 ## EDUCATION
 - HANOI UNIVERISITY OF MINING & GEOLOGY
