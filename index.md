@@ -2,8 +2,8 @@
 
 ## PERSONAL INFORMATION
 
-- Fullname: Dinh Van Duy
-- DoB: 1996-10-28
+- Full Name: Dinh Van Duy
+- DOB: 1996-10-28
 - Email: vanduydinh2810@gmail.com
 
 ## EDUCATION
