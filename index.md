@@ -17,6 +17,7 @@
 - Relevant OS knowledge: Linux, Windows.
 - Have experience in training and management team (4~5 members).
 - Have experience in working as a freelancer so can manage time and multitask.
+- Have experience in migration Odoo version: from Odoo 12 CE to Odoo 14 CE.
 - Have good teamwork skill and high sense of responsibility.
 - Basic English for reading and researching technical documents.
 
