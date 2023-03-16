@@ -15,6 +15,7 @@
 - Familiar with Python, Javascript.
 - Technology & Framework: Odoo, Django, Docker, Gitlab CI/CD, NodeJS - ReactJS (self-study by courses).
 - Have experience with DBMS: Postgres SQL, MySQL.
+- Have experience in Postgres optimization with (PgBouncer, Pgpool) and replication.
 - Relevant OS knowledge: Linux, Windows.
 - Have experience in training and management team (4~5 members).
 - Have experience in working as a freelancer so can manage time and multitask.
@@ -40,55 +41,7 @@
     - BACKEND, **ENTRUST CONSULTING CO., LTD**
     - Python, Odoo Framework
 
-## PROJECT
-
-### Forlife - Sale, Purchase, Inventory management - Odoo 16 EE
-- Duration: Dec 2022 - Now
-- Programming language: Python, JavaScript
-- Technology Or Framework: Odoo
-- Database: PostgreSQL
-- Tools: Pycharm Community, Git
-- Position: Backend developer
-    - Communicate & provide the suggestion for solutions
-    - Deploy CI/CD & system on docker
-    - Technical support & Review internal coding
-
-### Wagtail - CMS system
-- Duration: Sep 2022 - Nov 2022
-- Programming language: Python, JavaScript
-- Technology Or Framework: Django
-- Database: MySQL
-- Tools: Pycharm Community, Git
-- Position: Maintenance, Backend developer
-    - Collect & analyze requirements from BA
-    - Develop new feature from old system
-    - Work with QA for analyzing and resolving defects & deploy application
-- Contributing & achievement:
-    - Gain experience in Django framework
-
-### Internal tool - HR management, Project - Odoo 15 CE
-- Duration: Aug 2022 - Sep 2022
-- Programming language: Python, JavaScript
-- Technology Or Framework: Odoo
-- Database: PostgreSQL, SQL Server
-- Tools: Pycharm Community, Git
-- Position: Team leader
-    - Communicate & provide the suggestion for solutions
-    - Review coding & training new member
-    - Deploy CI/CD & system on docker
-    - Create service to get data from Jira database (SQL Server)
-
-### vESS - CRM, HR management, Project, Payroll, Attendance - Odoo 14 CE
-- Duration: Jul 2022 - Aug 2022
-- Programming language: Python, JavaScript
-- Technology Or Framework: Odoo
-- Database: PostgreSQL, SQL Server
-- Tools: Pycharm Community, Git
-- Position: Backend developer, Maintenance
-    - Communicate & provide the suggestion for solutions
-    - Resolve technical issues related to javascript
-    - Customize and improve User interface
-    - Create service to get data from Jira database (SQL Server)
+## FEATURED PROJECT
 
 ### Sapo 360 System - CRM, Project, Inventory, Sale, Purchase management - Odoo 13 EE
 - Duration: August 2021 - Jul 2022
@@ -135,6 +88,66 @@
 - Contributing & achievement:
     - Gain experience in deploy system on docker and deploy CI/CD
     - Gain experience in managing development team
+
+### URBANCITY - Ecommerce, inventory, sales management - Odoo 12 CE
+- Duration: Nov 2018 - Mar 2019
+- Programming language: Python, JavaScript
+- Technology Or Framework: Odoo, SCSS, Jquery, Integration: Sms, Onepay
+- Database: PostgreSQL
+- Tools: Pycharm Community, Git
+- Position: Backend developer, Frontend developer
+    - Collect & analyze requirements from BA
+    - Coding & work with QA for analyzing and resolving defects
+
+### vESS - CRM, HR management, Project, Payroll, Attendance - Odoo 14 CE
+- Duration: Jul 2022 - Aug 2022
+- Programming language: Python, JavaScript
+- Technology Or Framework: Odoo
+- Database: PostgreSQL, SQL Server
+- Tools: Pycharm Community, Git
+- Position: Backend developer, Maintenance
+    - Communicate & provide the suggestion for solutions
+    - Resolve technical issues related to javascript
+    - Customize and improve User interface
+    - Create service to get data from Jira database (SQL Server)
+
+## OTHER PROJECTS
+
+### Forlife - Sale, Purchase, Inventory management - Odoo 16 EE
+- Duration: Dec 2022 - Now
+- Programming language: Python, JavaScript
+- Technology Or Framework: Odoo
+- Database: PostgreSQL
+- Tools: Pycharm Community, Git
+- Position: Backend developer
+    - Communicate & provide the suggestion for solutions
+    - Deploy CI/CD & system on docker
+    - Technical support & Review internal coding
+
+### Wagtail - CMS system
+- Duration: Sep 2022 - Nov 2022
+- Programming language: Python, JavaScript
+- Technology Or Framework: Django
+- Database: MySQL
+- Tools: Pycharm Community, Git
+- Position: Maintenance, Backend developer
+    - Collect & analyze requirements from BA
+    - Develop new feature from old system
+    - Work with QA for analyzing and resolving defects & deploy application
+- Contributing & achievement:
+    - Gain experience in Django framework
+
+### Internal tool - HR management, Project - Odoo 15 CE
+- Duration: Aug 2022 - Sep 2022
+- Programming language: Python, JavaScript
+- Technology Or Framework: Odoo
+- Database: PostgreSQL, SQL Server
+- Tools: Pycharm Community, Git
+- Position: Team leader
+    - Communicate & provide the suggestion for solutions
+    - Review coding & training new member
+    - Deploy CI/CD & system on docker
+    - Create service to get data from Jira database (SQL Server)
   
 ### SCMS - Sale, Purchase management and workflow - Odoo 13 CE
 - Duration: May 2020 - Aug 2020
@@ -184,16 +197,6 @@
     - Research & integrate Facebook Graph API
 - Contributing & achievement:
     - Understand CRM flows to Sales order created
-
-### URBANCITY - Ecommerce, inventory, sales management - Odoo 12 CE
-- Duration: Nov 2018 - Mar 2019
-- Programming language: Python, JavaScript
-- Technology Or Framework: Odoo, SCSS, Jquery, Integration: Sms, Onepay
-- Database: PostgreSQL
-- Tools: Pycharm Community, Git
-- Position: Backend developer, Frontend developer
-    - Collect & analyze requirements from BA
-    - Coding & work with QA for analyzing and resolving defects
 
 ### GIATHUOCHAPU - Ecommerce, sales management - Odoo 11 CE
 - Duration: Oct 2018 - Dec 2018
