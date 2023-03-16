@@ -5,7 +5,7 @@
 - Full Name: Dinh Van Duy
 - DOB: 1996-10-28
 - Email: vanduydinh2810@gmail.com
-- Mobile: 0368568292
+- Mobile: +84368568292
 
 ## EDUCATION
 - HANOI UNIVERISITY OF MINING & GEOLOGY
@@ -41,7 +41,7 @@
     - BACKEND, **ENTRUST CONSULTING CO., LTD**
     - Python, Odoo Framework
 
-## FEATURED PROJECT
+## FEATURED PROJECTS
 
 ### Sapo 360 System - CRM, Project, Inventory, Sale, Purchase management - Odoo 13 EE
 - Duration: August 2021 - Jul 2022
