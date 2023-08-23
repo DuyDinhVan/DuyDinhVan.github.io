@@ -13,7 +13,7 @@
 
 ## SKILLS
 - Familiar with Python, Javascript.
-- Technology & Framework: Odoo, Django, Docker, Gitlab CI/CD, NodeJS - ReactJS (self-study by courses).
+- Technology & Framework: Odoo, Django, Docker, Gitlab CI/CD.
 - Have experience with DBMS: Postgres SQL, MySQL.
 - Have experience in Postgres optimization with (PgBouncer, Pgpool) and replication.
 - Relevant OS knowledge: Linux, Windows.
