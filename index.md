@@ -13,7 +13,7 @@
 
 ## SKILLS
 - Familiar with Python, Javascript.
-- Technology & Framework: Odoo, Django, Docker, Gitlab CI/CD.
+- Technology & Framework: Odoo, Django, Docker, Gitlab CI/CD, Odoo SH.
 - Have experience with DBMS: Postgres SQL, MySQL.
 - Have experience in Postgres optimization with (PgBouncer, Pgpool) and replication.
 - Relevant OS knowledge: Linux, Windows.
@@ -24,8 +24,11 @@
 - Basic English for reading and researching technical documents.
 
 ## EXPERIENCE
-
-- 07 / 2022 – NOW
+- 05 / 2023 – NOW
+    - FULLSTACK, **WIR Group**
+    - Python, Odoo Framework
+  
+- 07 / 2022 – 05 / 2023
     - FULLSTACK, **Viettel Software Services**
     - Python, Odoo Framework, Django Framework
 
@@ -43,6 +46,21 @@
 
 ## FEATURED PROJECTS
 
+### WIR Internal System - Inventory, Website, HR management - Odoo 16 EE
+- Duration: May 2023 - Now
+- Programming language: Python, JavaScript, 
+- Technology Or Framework: Odoo, Odoo SH, Docker, Google Cloud, GitHub Actions, ZKTeco
+- Database: PostgreSQL
+- Tools: Pycharm Community, Git
+- Position: Backend developer
+    - Customize Odoo to match the company's processes
+    - Create an Odoo image and deploy it to Google Cloud
+    - Implement CI/CD using GitHub Actions
+    - Technical support & Review internal coding
+- Contributing & achievement:
+    - Gain experience in Odoo SH
+    - Gain experience in deploy system on Google Cloud and Implement CI/CD using GitHub Actions
+
 ### Sapo 360 System - CRM, Project, Inventory, Sale, Purchase management - Odoo 13 EE
 - Duration: August 2021 - Jul 2022
 - Programming language: Python, JavaScript
@@ -50,6 +68,7 @@
 - Database: PostgreSQL
 - Tools: Pycharm Community, Git
 - Position: Backend developer
+    - Customize Odoo to match the company's processes
     - Database optimization
     - Database replication master and slave
     - Review coding & training new member
@@ -79,14 +98,15 @@
 - Database: PostgreSQL
 - Tools: Pycharm Community, Git
 - Position: Team leader
+    - Customize Odoo to match the company's processes
     - Communicate & provide the suggestion for solutions
     - Design structure, database
     - Coding & work with QA for analyzing and resolving defects & deploy application
     - Estimate & assign task to member
     - Review coding & training new member
-    - Deploy CI/CD & system on docker
+    - Implement CI/CD & deploy system on docker
 - Contributing & achievement:
-    - Gain experience in deploy system on docker and deploy CI/CD
+    - Gain experience in deploy system on docker and Implement CI/CD
     - Gain experience in managing development team
 
 ### URBANCITY - Ecommerce, inventory, sales management - Odoo 12 CE
@@ -96,6 +116,8 @@
 - Database: PostgreSQL
 - Tools: Pycharm Community, Git
 - Position: Backend developer, Frontend developer
+    - Build an e-commerce website
+    - Customize Odoo to match the company's processes
     - Collect & analyze requirements from BA
     - Coding & work with QA for analyzing and resolving defects
 
@@ -114,14 +136,14 @@
 ## OTHER PROJECTS
 
 ### Forlife - Sale, Purchase, Inventory management - Odoo 16 EE
-- Duration: Dec 2022 - Now
+- Duration: Dec 2022 - Apr 2023
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo
 - Database: PostgreSQL
 - Tools: Pycharm Community, Git
 - Position: Backend developer
     - Communicate & provide the suggestion for solutions
-    - Deploy CI/CD & system on docker
+    - Implement CI/CD & deploy system on docker
     - Technical support & Review internal coding
 
 ### Wagtail - CMS system
@@ -146,7 +168,7 @@
 - Position: Team leader
     - Communicate & provide the suggestion for solutions
     - Review coding & training new member
-    - Deploy CI/CD & system on docker
+    - Implement CI/CD & deploy system on docker
     - Create service to get data from Jira database (SQL Server)
   
 ### SCMS - Sale, Purchase management and workflow - Odoo 13 CE
