@@ -1,4 +1,4 @@
-# ODOO DEVELOPER CV
+# ODOO DEVELOPER
 I have more than 5 years of experience in Odoo development. I am skilled in Python, PostgreSQL, XML, and JavaScript, and have experience working with Odoo versions from 11 to 16. I have a strong understanding of the Odoo framework, including its architecture, data model, and ORM.
 
 ## PERSONAL INFORMATION
