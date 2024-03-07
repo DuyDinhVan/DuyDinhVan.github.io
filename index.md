@@ -18,6 +18,27 @@ I have more than 5 years of experience in Odoo development. I am skilled in Pyth
 - Have experience in Odoo 11 to 16 and upgrading Odoo versions.
 - Have good teamwork skill and high sense of responsibility.
 
+## EXPERIENCE
+- 05 / 2023 – NOW
+    - FULLSTACK, **WIR Group**
+    - Python, Odoo Framework
+  
+- 07 / 2022 – 05 / 2023
+    - FULLSTACK, **Viettel Software Services**
+    - Python, Odoo Framework, Django Framework
+
+- 07 / 2021 – 07 / 2022
+    - BACKEND, **SAPO TECHNOLOGY JSC**
+    - Python, Odoo Framework
+
+- 08 / 2019 – 07 / 2021
+    - FULLSTACK, **NISSHO ELECTRONICS VIETNAM COMPANY LIMITED**
+    - Python, Odoo Framework
+
+- 06 / 2018 – 07/2019
+    - BACKEND, **ENTRUST CONSULTING CO., LTD**
+    - Python, Odoo Framework
+
 ## FEATURED PROJECTS
 
 ### WIR Internal System - Inventory, Website, HR management - Odoo 16 EE
