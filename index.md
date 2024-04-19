@@ -14,7 +14,6 @@ I have more than 5 years of experience in Odoo development. I am skilled in Pyth
 - Have experience with DBMS: Postgres SQL, MySQL.
 - Have experience in optimizing Postgresql connections and replication.
 - Relevant OS knowledge: Linux, Windows.
-- Have experience in training and management team (4~5 members).
 - Have experience in Odoo 11 to 16 and upgrading Odoo versions.
 - Have good teamwork skill and high sense of responsibility.
 
