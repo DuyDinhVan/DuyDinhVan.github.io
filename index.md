@@ -23,11 +23,11 @@ I have more than 5 years of experience in Odoo development. I am skilled in Pyth
     - FULLSTACK, **WIR Group**
     - Python, Odoo Framework
   
-- 07 / 2022 – 05 / 2023
-    - FULLSTACK, **Viettel Software Services**
+- 06 / 2022 – 05 / 2023
+    - FULLSTACK, **Viettel Group**
     - Python, Odoo Framework, Django Framework
 
-- 07 / 2021 – 07 / 2022
+- 07 / 2021 – 06 / 2022
     - BACKEND, **SAPO TECHNOLOGY JSC**
     - Python, Odoo Framework
 
@@ -117,7 +117,7 @@ I have more than 5 years of experience in Odoo development. I am skilled in Pyth
     - Coding & work with QA for analyzing and resolving defects
 
 ### vESS - CRM, HR management, Project, Payroll, Attendance - Odoo 14 CE
-- Duration: Jul 2022 - Aug 2022
+- Duration: Jul 2022 - Dec 2022
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo
 - Database: PostgreSQL, SQL Server
@@ -127,3 +127,17 @@ I have more than 5 years of experience in Odoo development. I am skilled in Pyth
     - Resolve technical issues related to javascript
     - Customize and improve User interface
     - Create service to get data from Jira database (SQL Server)
+
+### Wagtail - CMS system
+- Duration: Sep 2022 - Nov 2022
+- Programming language: Python, JavaScript
+- Technology Or Framework: Django
+- Database: MySQL
+- Tools: Pycharm Community, Git
+- Position: Maintenance, Backend developer
+    - Collect & analyze requirements from BA
+    - Develop new features to manage existing websites and manage events.
+    - Work with QA for analyzing and resolving defects & deploy application
+- Contributing & achievement:
+    - Gain experience in Django framework
+  
