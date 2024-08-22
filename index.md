@@ -19,29 +19,25 @@ I have more than 5 years of experience in Odoo development. I am skilled in Pyth
 - Have good teamwork skill and high sense of responsibility.
 
 ## EXPERIENCE
-- 05 / 2023 – NOW
+- 04 / 2023 – NOW
     - FULLSTACK, **WIR Group**
-    - Python, Odoo Framework
-  
-- 06 / 2022 – 05 / 2023
-    - FULLSTACK, **Viettel Group**
     - Python, Odoo Framework, Django Framework
 
-- 07 / 2021 – 06 / 2022
+- 07 / 2021 – 03 / 2023
     - BACKEND, **SAPO TECHNOLOGY JSC**
     - Python, Odoo Framework
 
-- 08 / 2019 – 07 / 2021
+- 07 / 2019 – 07 / 2021
     - FULLSTACK, **NISSHO ELECTRONICS VIETNAM COMPANY LIMITED**
     - Python, Odoo Framework
 
-- 06 / 2018 – 07/2019
-    - BACKEND, **ENTRUST CONSULTING CO., LTD**
+- 06 / 2018 – 06 /2019
+    - INTERNSHIP, BACKEND, **ENTRUST CONSULTING CO., LTD**
     - Python, Odoo Framework
 
 ## FEATURED PROJECTS
 
-### WIR Internal System - Inventory, Website, HR management - Odoo 16 EE
+### WIR Internal System - Sale, Inventory, Website, HR management - Odoo 16 EE
 - Duration: May 2023 - Now
 - Programming language: Python, JavaScript, 
 - Technology Or Framework: Odoo, Odoo SH, Docker, Google Cloud, GitHub Actions, ZKTeco
@@ -57,7 +53,7 @@ I have more than 5 years of experience in Odoo development. I am skilled in Pyth
     - Gain experience in deploy system on Google Cloud and Implement CI/CD using GitHub Actions
 
 ### Sapo 360 System - CRM, Project, Inventory, Sale, Purchase management - Odoo 13 EE
-- Duration: August 2021 - Jul 2022
+- Duration: August 2021 - Mar 2023
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, PgBouncer, Pgpool, Database replication, Shorten link (YOURLS)
 - Database: PostgreSQL
@@ -116,7 +112,7 @@ I have more than 5 years of experience in Odoo development. I am skilled in Pyth
     - Collect & analyze requirements from BA
     - Coding & work with QA for analyzing and resolving defects
 
-### vESS - CRM, HR management, Project, Payroll, Attendance - Odoo 14 CE
+### vESS - CRM, HR management, Project, Attendance - Odoo 14 CE
 - Duration: Jul 2022 - Dec 2022
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo
